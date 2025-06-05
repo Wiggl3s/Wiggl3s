@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">How you doin 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
