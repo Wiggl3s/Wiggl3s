@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">How you doin 👋</h1>
 
 ###
 
