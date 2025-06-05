@@ -1,0 +1,25 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  generate-pacman:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Pacman graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Wiggl3s
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Update Pacman contribution graph"
