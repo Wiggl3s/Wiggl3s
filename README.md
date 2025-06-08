@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Dave, a college student at University of Mindanao.<br><br>- 📚 I'm currently learning Next.js, Vuepress, React Native</p>
+<p align="left">I'm Dave, A Front-End Developer.<br><br>- 📚 I'm currently learning Next.js, Vuepress, React Native</p>
 
 ###
 
