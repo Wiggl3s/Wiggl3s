@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Dave Henry Fernandez, A Front-End Developer.<br><br>- 📚 I'm currently learning Next.js, Vuepress, React Native</p>
+<p align="left">I'm Dave Henry Fernandez, A Front-End Developer.<br><br>- 📚 I'm currently learning Next.js, Vue, React Native</p>
 
 ###
 
