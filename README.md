@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif" />
-</div>
+
 
 ###
 
@@ -10,16 +8,11 @@
   <a href = https://www.linkedin.com/in/dave-henry-fernandez-2367463aa/ target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-<a href = https://www.facebook.com/davehenryfernandez target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
-</a>
+  
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wiggl3s.Wiggl3s&" />
-</div>
 
 ###
 
