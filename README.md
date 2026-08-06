@@ -20,15 +20,15 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-<p align="left">I'm Dave Henry Fernandez, A Front-End Developer.<br><br>- 📚 I'm currently learning Next.js, Vue, React Native</p>
+<p align="left">I'm Dave Henry Fernandez, A Front-End Developer.<br><br>  I'm currently learning Next.js, Vue, React Native</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Language and tools</h3>
 
 ###
 
